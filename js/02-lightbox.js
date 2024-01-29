@@ -37,5 +37,5 @@ function onGalleryContainerCLick(event) {
   gallery.on("show.simplelightbox", function () {});
 
   event.preventDefault();
-  console.log("Open");
+  // console.log("Open");
 }
